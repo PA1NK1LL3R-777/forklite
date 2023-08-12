@@ -1,7 +1,7 @@
 ![Logo](https://cdn.cottle.cloud/littlelink/littlelink.gif)
 
-# LittleLink
-The DIY self-hosted <a href="https://linktr.ee/" target="_blank" rel="noopener">LinkTree</a> alternative. LittleLink has more than 100 branded button styles you can easily use, with more being added by our community all the time.
+# Fork - LittleLink
+Esse é um projeto forkado do <a href="https://littlelink.io" target="_blank" rel="noopener">LittleLink</a>
 
 ![Theme](https://cdn.cottle.cloud/littlelink/themesupport.gif)
 
